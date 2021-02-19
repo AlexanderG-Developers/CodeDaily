@@ -243,12 +243,12 @@ footer p {
 
 
 .news-card{
-  background-color: white;
-  color: black;
+  background-color: #777777;
+  color: White;
   border-radius: 10px;
 }.news-card a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 .img-notices{
   border-radius: 10px 10px 0px 0px;
@@ -262,13 +262,13 @@ footer p {
 }
 
 .recu-card{
-  background-color: white;
-  color: black;
+  background-color: #777777;
+  color: white;
   border-radius: 10px;
 }
 .recu-card a{
   text-decoration: none;
-  color: black;
+  color: white;
 }
 #recu-img{
   width: 545px;
